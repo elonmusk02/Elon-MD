@@ -86,7 +86,7 @@ star✨ my repo bruh don't forget please🤖
 
 **2. If You Have Account On Heroku**
 
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://elon-md-verification.vercel.app)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/elonmusk02/Elon-MD)***
 
 **DEPLOY ON RENDER**
 
